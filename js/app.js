@@ -15,7 +15,6 @@
     items.forEach(function(item){
         total.push(parseFloat(item.textContent));
     })
-    
     const totalMoney = total.reduce((total, item) => {
         total += item;
         return total;
