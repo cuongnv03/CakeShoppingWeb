@@ -7,7 +7,6 @@
         cart.classList.toggle('show-cart');
     })
 })();
-
 // How much items selected and what total price before selecting any items
 (function(){
     const total = [];
