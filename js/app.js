@@ -24,7 +24,6 @@
     document.getElementById('item-count').textContent = total.length
     
 })();
-
 // add items to the cart
 (function(){
     const cartBtn = document.querySelectorAll('.store-item-icon');
