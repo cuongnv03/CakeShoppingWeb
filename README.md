@@ -1,4 +1,14 @@
-# CakeShoppingWeb
+### CakeShoppingWeb
+## Setup
+- Use Visual Studio Code
+- Open Project Folder
+- Get into file `index.html`
+- Run live server
+## Technology
+- Javascript
+- HTML
+- CSS
+## Key features and demo
 Practice Javascript, HTML & CSS to build shopping website which includes basic functions to add items to cart <br />
 Some images to illustrate website: <br />
 ![image](https://github.com/cuongnv03/CakeShoppingWeb/assets/100533640/61d58be1-697a-402c-8085-b5f67864b5ea) <br />
